@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "[ADRIRO-NEW-H-01] VotiumStrategy withdrawal can still be executed with minimal delay",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/45"
+}
