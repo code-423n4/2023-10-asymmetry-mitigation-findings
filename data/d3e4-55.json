@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "d3e4",
+  "risk": "2",
+  "title": "`pauseWithdraw` should imply `pauseDeposit`",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/55"
+}
