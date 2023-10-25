@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "[ADRIRO-NEW-H-03] Invalid operation in `withdrawStuckTokens()` will break CVX balance tracking in VotiumStrategy",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/49"
+}
