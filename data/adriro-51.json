@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "[ADRIRO-NEW-M-01] Manager authorization in VotiumStrategy still leaves room for unprotected access",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/51"
+}
