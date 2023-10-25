@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "m_Rassska",
+  "risk": "Q",
+  "title": "`afETH.withdrawTime()` still returns an invalid withdrawTime. ",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/59"
+}
