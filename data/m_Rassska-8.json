@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "m_Rassska",
+  "risk": "2",
+  "title": "Broken logical expression in `onlyManager()`",
+  "issueId": 8,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/8"
+}
