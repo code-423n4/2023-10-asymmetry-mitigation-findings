@@ -1,0 +1,8 @@
+{
+  "contest": 298,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "[ADRIRO-NEW-M-02] AfEth withdrawals are delayed even if the vAfEth withdrawal amount is zero",
+  "issueId": 52,
+  "issueUrl": "https://github.com/code-423n4/2023-10-asymmetry-mitigation-findings/issues/52"
+}
